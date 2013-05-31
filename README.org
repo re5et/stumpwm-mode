@@ -6,7 +6,7 @@ http://git.savannah.gnu.org/cgit/stumpwm.git/tree/contrib/stumpwm-mode.el
 * Installation
 
 Install package from http://melpa.milkbox.net/#installing
-: M-x package-install RET isearch-symbol-at-point
+: M-x package-install RET stumpwm-mode
 
 * Usage
 
